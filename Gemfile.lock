@@ -1,0 +1,33 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ansi (1.5.0)
+    builder (3.2.4)
+    date (3.2.2)
+    minitest (5.15.0)
+    minitest-reporters (1.5.0)
+      ansi
+      builder
+      minitest (>= 5.0)
+      ruby-progressbar
+    rake (13.0.6)
+    ruby-progressbar (1.11.0)
+    stamp (0.6.0)
+    webrick (1.7.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  date
+  minitest
+  minitest-reporters
+  rake
+  stamp
+  webrick
+
+RUBY VERSION
+   ruby 3.1.2p20
+
+BUNDLED WITH
+   2.3.14
